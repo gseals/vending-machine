@@ -1,4 +1,11 @@
+import firebase from 'firebase';
+import apiKeys from './helpers/apiKeys.json';
 import 'bootstrap';
 import '../styles/main.scss';
 
-console.error('hi');
+const init = () => {
+  firebase.initializeApp(apiKeys.firebaseKeys);
+  console.log('hi', firebase.apps);
+};
+
+init();
