@@ -1,0 +1,42 @@
+{
+  "snack1": {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/61Q2RkHVgcL._SX425_.jpg",
+    "name": "Reese's Peanut Butter Cups",
+    "price": 75,
+    "currentStocked": 2,
+    "lifetimeNum": 4,
+    "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
+  },
+  "snack2": {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/81mBer0Y%2BzL._SL1500_.jpg",
+    "name": "Reese's Pieces",
+    "price": 75,
+    "currentStocked": 2,
+    "lifetimeNum": 4,
+    "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
+  },
+  "snack3": {
+    "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/8111-VzAUfL._SL1500_.jpg",
+    "name": "Reese's Pieces in Peanut Butter Cups",
+    "price": 75,
+    "currentStocked": 2,
+    "lifetimeNum": 4,
+    "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
+  },
+  "snack4": {
+    "imageUrl": "https://www.dollargeneral.com/media/catalog/product/cache/image/700x700/e9c3970ab036de70892d86c6d221abfe/g/e/general_mills_reese_s_puffs_cereal_11.5_oz.jpg",
+    "name": "Reese's Puffs",
+    "price": 75,
+    "currentStocked": 2,
+    "lifetimeNum": 4,
+    "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
+  },
+  "snack5": {
+    "imageUrl": "https://www.cadburyusa.com/is/image/content/dam/smartlabelproductsimage/cadburycaramello/00034000003402-0005.png?wid=570&hei=570&fmt=png-alpha",
+    "name": "Caramello",
+    "price": 75,
+    "currentStocked": 2,
+    "lifetimeNum": 4,
+    "uid": "12345"
+  }
+}
