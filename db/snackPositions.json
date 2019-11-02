@@ -2,31 +2,31 @@
   "snackPosition1": {
     "positionId": "position1",
     "snackId": "snack1",
-    "machineid": "machine1",
+    "machineId": "machine1",
     "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
   },
   "snackPosition2": {
     "positionId": "position2",
     "snackId": "snack2",
-    "machineid": "machine1",
+    "machineId": "machine1",
     "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
   },
   "snackPosition3": {
     "positionId": "position5",
     "snackId": "snack3",
-    "machineid": "machine1",
+    "machineId": "machine1",
     "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
   },
   "snackPosition4": {
     "positionId": "position7",
     "snackId": "snack4",
-    "machineid": "machine1",
+    "machineId": "machine1",
     "uid": "L2NIoO9YijVI7db3QFI7rP0BCVp2"
   },
   "snackPosition5": {
     "positionId": "position10",
     "snackId": "snack5",
-    "machineid": "12345",
+    "machineId": "12345",
     "uid": "12345"
   }
 }
