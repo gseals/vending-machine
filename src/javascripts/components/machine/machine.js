@@ -12,7 +12,7 @@ const buildTheMachine = () => {
         domString += snackComponent.makeASnack(position);
       });
       domString += '</div>';
-      util.printToDom('stock', domString);
+      util.printToDom('machine', domString);
     })
 
     .catch((error) => console.error(error));
